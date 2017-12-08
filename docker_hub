@@ -1,0 +1,13 @@
+zandy/gcr           quay.io--calico--kube-controllers---v1.0.1           cfb3e49bcce8        2 hours ago         52.2MB
+zandy/gcr           quay.io--calico--node---v2.6.3                       7ba12833ea58        2 hours ago         279MB
+zandy/gcr           quay.io--coreos--etcd---v3.1.10                      586757c4bc22        2 hours ago         34.6MB
+zandy/gcr           quay.io--calico--cni---v1.11.1                       3b94d5dadca7        2 hours ago         70.9MB
+zandy/gcr           gcr.io--gc--pause-amd64---3.0                        86c92ebab180        2 hours ago         747kB
+zandy/gcr           gcr.io--gc--kube-scheduler-amd64---v1.8.4            4644a3c66563        2 hours ago         55MB
+zandy/gcr           gcr.io--gc--kube-proxy-amd64---v1.8.4                61ffc3d38749        2 hours ago         93.2MB
+zandy/gcr           gcr.io--gc--kube-controller-manager-amd64---v1.8.4   f82503421983        2 hours ago         129MB
+zandy/gcr           gcr.io--gc--kube-apiserver-amd64---v1.8.4            039dd919e2ae        2 hours ago         194MB
+zandy/gcr           gcr.io--gc--k8s-dns-sidecar-amd64---1.14.5           3a4205bed1c2        2 hours ago         41.8MB
+zandy/gcr           gcr.io--gc--k8s-dns-dnsmasq-nanny-amd64---1.14.5     7daa234ece5c        3 hours ago         41.4MB
+zandy/gcr           gcr.io--gc--etcd-amd64---3.0.17                      19c3cf4d6b48        3 hours ago         169MB
+zandy/gcr           gcr.io--gc--k8s-dns-kube-dns-amd64---1.14.5          7bdfeb2f4d0f        3 hours ago         49.4MB
