@@ -1,2 +1,2 @@
 FROM quay.io/calico/cni:v1.11.1
-MAINTAINER Zandy
+LABEL maintainer=Zandy

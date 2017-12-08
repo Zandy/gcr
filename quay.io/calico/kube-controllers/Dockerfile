@@ -1,2 +1,2 @@
 FROM quay.io/calico/kube-controllers:v1.0.1
-MAINTAINER Zandy
+LABEL maintainer=Zandy
